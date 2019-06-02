@@ -8,4 +8,4 @@ class SongsWorker
     end
   end
 
-end 
+end binding.pry
